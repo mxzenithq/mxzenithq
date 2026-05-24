@@ -37,7 +37,7 @@ Uma jornada de inovação, arquitetura limpa e soluções escaláveis para o eco
 ## 📬 Vamos nos conectar?
 
 * **GitHub:** [github.com/mxzenithq](https://github.com/mxzenithq)
-* **E-mail:** contato@mxzenithq.dev
+* **E-mail:** mxzenithq@gmail.com
 
 ---
 *Este perfil foi criado para transformar ideias em realidade. Vamos construir o extraordinário?*
